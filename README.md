@@ -1,2 +1,2 @@
 # Projects
-This Repository contains some projects I did for courses in the fieldsof AI, Control, and Robotics
+This Repository contains some of the projects I did for courses in the fields of AI, Control, and Robotics
